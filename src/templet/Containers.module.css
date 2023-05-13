@@ -1,0 +1,15 @@
+
+
+.bloc {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: black;
+    height: 500px;
+    width: 50%;
+    margin:  20vh 20vw 20vh 20vw;
+    border-radius: 12px;
+    border: 2px solid blue;
+    
+}

@@ -1,0 +1,37 @@
+
+.taskview{
+    color: white;
+    text-align: center;
+   
+    
+}
+
+.taskview ol li {
+    border: 1.5px solid white;
+    border-radius: 5px;
+    margin:  5px 15px 20px 10px;
+    padding:  4px;
+
+}
+.taskview ol {
+    height: 300px;
+overflow-y: scroll;
+}
+.taskview ol::-webkit-scrollbar {
+    display: none;
+}
+.done{
+    text-decoration: line-through;
+    
+}
+.cmt{
+    margin-left: 5px;
+    background-color:  blue;
+    border-radius: 5px;
+}
+
+.dlt{
+    margin-left: 6px;
+    background-color:  red;
+    border-radius: 5px;
+}
